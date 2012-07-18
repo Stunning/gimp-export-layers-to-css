@@ -1,0 +1,28 @@
+
+.graphics-sample.Cross {
+    background-image: url(graphics-sample.png);
+    width: 76px;
+    height: 65px;
+    background-position-y: 0px;
+}
+.graphics-sample.Ok_button {
+    background-image: url(graphics-sample.png);
+    width: 129px;
+    height: 71px;
+    background-position-y: -65px;
+}
+.graphics-sample.Frame {
+    background-image: url(graphics-sample.png);
+    width: 320px;
+    height: 200px;
+    background-position-y: -136px;
+}
+.graphics-sample.Doodle {
+    background-image: url(graphics-sample.png);
+    width: 58px;
+    height: 39px;
+    background-position-y: -336px;
+}
+.graphics-sample {
+    background-size: 320px;
+}
