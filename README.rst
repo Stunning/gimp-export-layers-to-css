@@ -5,15 +5,9 @@ This plugin gives the option to paste all layers of a graphics file an a web gra
 A CSS stylesheet is generated so that any layer can be used as background on a html
 element by simply giving the element the layer's name as class.
 
-Example:
-
-.. code-block:: html
+Example::
 
 	<div class="graphics-sample Cross"></div>
-	
-.. code-block:: html
-
-	&lt;div/&gt;
 	
 There is also an example HTML file generated for copy-pasting from. 
 
