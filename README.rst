@@ -7,9 +7,9 @@ element by simply giving the element the layer's name as class.
 
 Example:
 
-.. code-block:: html
-
-	<div class="graphics-sample Cross"></div>
+``` html
+<div class="graphics-sample Cross"></div>
+\```
 	
 There is also an example HTML file generated for copy-pasting from. 
 
