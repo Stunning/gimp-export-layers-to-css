@@ -7,9 +7,13 @@ element by simply giving the element the layer's name as class.
 
 Example:
 
-``` html
-<div class="graphics-sample Cross"></div>
-\```
+.. code-block:: html
+
+	<div class="graphics-sample Cross"></div>
+	
+.. code-block:: html
+
+	&lt;div/&gt;
 	
 There is also an example HTML file generated for copy-pasting from. 
 
