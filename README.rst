@@ -1,7 +1,7 @@
 GIMP plugin: Export layers to CSS
 =================================
 
-This plugin gives the option to paste all layers of a graphics file an a web graphics file. 
+This plugin gives the option to paste all layers of a graphics file into a web graphics file. 
 A CSS stylesheet is generated so that any layer can be used as background on a html
 element by simply giving the element the layer's name as class.
 
