@@ -38,3 +38,15 @@ Select your web static root, and select the scale.
 Click **Ok** to generate the files.
 
 Copy the parts you need for your webpage from the generated HTML.
+
+
+Compatibility
+-------------
+
+PSD-files can be opened by GIMP, but not all features are supported. 
+
+To prepare a PSD for GIMP created with PS CS6, do the following in PS:
+
+- **Image** -> **Mode** -> **8 Bits/Channel**
+- **Select** -> **All Layers**
+- **Layer** -> **Rasterize** -> **Layer Style**
